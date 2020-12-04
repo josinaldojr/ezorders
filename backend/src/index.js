@@ -14,4 +14,3 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(3001, () => console.log('> Server started at localhost: 3001'));
-
